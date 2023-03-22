@@ -1,0 +1,112 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/leandrofaria/code/reprod/2023/03/22/udemy/contracts/KnowledgeTest.sol": {
+      "lastModificationDate": 1678507290356,
+      "contentHash": "4f2eef692517f39c841c7142b01d28f6",
+      "sourceName": "contracts/KnowledgeTest.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "KnowledgeTest"
+      ]
+    },
+    "/Users/leandrofaria/code/reprod/2023/03/22/udemy/contracts/Lottery.sol": {
+      "lastModificationDate": 1678511680883,
+      "contentHash": "4557843299dc8f3729473b419a0ba1af",
+      "sourceName": "contracts/Lottery.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Lottery"
+      ]
+    },
+    "/Users/leandrofaria/code/reprod/2023/03/22/udemy/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1678498024002,
+      "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    }
+  }
+}
